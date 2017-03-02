@@ -16,4 +16,4 @@ client.send("BlueHat says hello python!!")
 #recieve some data
 response = client.recv(4096)
 
-print response
+print(response)
